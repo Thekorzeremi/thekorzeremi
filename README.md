@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Korzeremi
-- 👀 I’m interested in IT, Transports, Engineering
+- 👀 I’m interested in IT, Transports, Engineering and much more
 - 🌱 I’m currently learning several programming languages such as CSS, JS, JQuery
 
 
