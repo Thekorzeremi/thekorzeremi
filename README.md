@@ -3,6 +3,7 @@
   alt="Alternative Text"
 />
 
-- 👋 Hi, I’m @Korzeremi
+- 👋 Hi, I’m @Korzeremi from the french IT School IPSSI
 - 👀 I’m interested in IT, Transports, Engineering and much more
-- 🌱 I’m currently learning several programming languages such as CSS, JS, JQuery
+- 🌱 I’m currently coding in HTML, in CSS, in JS and in C# with Winforms .NET Frameworks
+- 💻 I work with Linux Ubuntu and I use Windows-VM
