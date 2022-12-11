@@ -3,3 +3,8 @@
 - 🌱 I’m currently learning several programming languages such as CSS, JS, JQuery
 
 ![alt text](https://github.com/Korzeremi/Korzeremi/blob/main/index.jpeg)
+
+<img
+  src="https://github.com/Korzeremi/Korzeremi/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
