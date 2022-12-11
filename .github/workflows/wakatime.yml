@@ -1,6 +1,7 @@
 name: WakaTime status update
 
 on:
+  push:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "28 14 * * *"
