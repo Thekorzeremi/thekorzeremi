@@ -7,5 +7,3 @@
 - 👀 I’m interested in IT, Transports, Engineering, Coding and much more
 - 🌱 I’m currently coding in HTML, in CSS, in JS and in C# with Winforms .NET Frameworks
 - 💻 I work with Linux Ubuntu and Windows-VM (unfortunately)
-
-![alt text](https://github.com/Korzeremi/Korzeremi/blob/main/images/meme.webp)
