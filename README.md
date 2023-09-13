@@ -4,6 +4,6 @@
 />
 
 - 👋 Hi, I’m @Korzeremi from the french IT School IPSSI
-- 👀 I’m interested in IT, Transports, Engineering, Coding and much more
-- 🌱 I’m currently coding in Python, HTML, PHP, CSS, JS and in C# with Winforms .NET Frameworks
-- 💻 I work with Linux Ubuntu and Windows
+- 👀 I’m interested in IT, Linux-Kernel & Linux-Kernel based OS, Engineering, Coding and much more
+- 🌱 I’m currently coding in HTML, CSS, PHP, JS, Python, React, Vue.JS, C and in C# with Winforms .NET and Unity Frameworks
+- 💻 I work with Arch Linux
