@@ -2,10 +2,8 @@ Toal code time : [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42
 Time on my current projects :
 - PROJET_ANGIOLOGIC : [![wakatime](https://wakatime.com/badge/github/Korzeremi/AngioLogic.svg)](https://wakatime.com/badge/github/Korzeremi/AngioLogic)
 https://angioscore-project.000webhostapp.com/
-- PROJET_ANGIOSCORE : [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9.svg)]
+- PROJET_ANGIOSCORE : [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9)
 https://angioscore-project.000webhostapp.com/
-(https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9)
-
   
 About me :  
 - 👋 Hi, I’m @Korzeremi from the french IT School IPSSI
