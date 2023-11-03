@@ -2,13 +2,13 @@ Total code time :
 [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a.svg)](https://wakatime.com/@bd983427-c491-4a42-8cb8-c95de187e70a)  
   
 Time on my current projects :
-- RACOS :  
+- RACOS_PROJECT :  
 [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/018b9739-c2c1-4fd4-a029-75ca68080143.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/018b9739-c2c1-4fd4-a029-75ca68080143)  
 https://racos.lemnixtech.fr  
-- PROJET_ANGIOLOGIC :  
+- ANGIOLOGIC_PROJECT :  
 [![wakatime](https://wakatime.com/badge/github/Korzeremi/AngioLogic.svg)](https://wakatime.com/badge/github/Korzeremi/AngioLogic)  
 https://angiologic.lemnixtech.fr    
-- PROJET_ANGIOSCORE :  
+- ANGIOSCORE_PROJECT :  
 [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9)  
 https://angioscore.lemnixtech.fr  
 
