@@ -9,7 +9,7 @@ https://racos.lemnixtech.fr
 [![wakatime](https://wakatime.com/badge/github/Korzeremi/AngioLogic.svg)](https://wakatime.com/badge/github/Korzeremi/AngioLogic)  
 https://angiologic.lemnixtech.fr    
 - PROJET_ANGIOSCORE :  
-[![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9)
+[![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9)  
 https://angioscore.lemnixtech.fr  
 
 
