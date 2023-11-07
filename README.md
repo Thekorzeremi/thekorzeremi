@@ -2,6 +2,8 @@ Total code time record in Wakatime :
 [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a.svg)](https://wakatime.com/@bd983427-c491-4a42-8cb8-c95de187e70a)  
   
 Time on my current projects :
+-LEMSUITE_PROJECT :  
+[![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/018ba445-1c6e-48eb-a7f4-4e597805a3cd.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/018ba445-1c6e-48eb-a7f4-4e597805a3cd)  
 - RACOS_PROJECT :  
 [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/018b9739-c2c1-4fd4-a029-75ca68080143.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/018b9739-c2c1-4fd4-a029-75ca68080143)  
 https://racos.lemnixtech.fr  
