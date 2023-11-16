@@ -7,9 +7,8 @@ ANGIOSCORE_PROJECT :
 [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9.svg)](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a/project/3140c132-33c9-4a03-9dae-2ceeb71d5ba9)  
 https://angioscore.lemnixtech.fr  
 
-
 About me :  
-- 👋 Hi, I’m @Korzeremi from the french IT School IPSSI
-- 👀 I’m interested in IT, Dev, Windows-Systems, UNIX-kernel, Linux-Kernel & Linux-Kernel based OS, UI/UX, Math and much more
-- 🌱 I’m currently coding in HTML, CSS, PHP, JS, Python, React, Vue.JS, C and in C# with Winforms .NET and Unity Frameworks
-- 💻 I work with Windows 11 & Arch Linux
+👋 Hi, I’m @Korzeremi from the french IT School IPSSI
+👀 Interested in IT, Dev, OS, UI/UX, Math, Technologies and much more
+🌱 Currently coding in HTML, CSS, PHP, JS, Python, React, Vue.JS, C and in C# with Winforms .NET and Unity Frameworks
+💻 Working with Windows 11, MacOS Sonoma & Arch Linux
