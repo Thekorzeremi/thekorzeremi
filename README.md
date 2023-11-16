@@ -8,7 +8,7 @@ ANGIOSCORE_PROJECT :
 https://angioscore.lemnixtech.fr  
 
 About me :  
-👋 Hi, I’m @Korzeremi from the french IT School IPSSI
-👀 Interested in IT, Dev, OS, UI/UX, Math, Technologies and much more
-🌱 Currently coding in HTML, CSS, PHP, JS, Python, React, Vue.JS, C and in C# with Winforms .NET and Unity Frameworks
+👋 Hi, I’m @Korzeremi from the french IT School IPSSI  
+👀 Interested in IT, Dev, OS, UI/UX, Math, Technologies and much more  
+🌱 Currently coding in HTML, CSS, PHP, JS, Python, React, Vue.JS, C and in C# with Winforms .NET and Unity Frameworks  
 💻 Working with Windows 11, MacOS Sonoma & Arch Linux
