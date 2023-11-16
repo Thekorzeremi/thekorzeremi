@@ -12,6 +12,6 @@ https://angioscore.lemnixtech.fr
 
 About me :  
 - 👋 Hi, I’m @Korzeremi from the french IT School IPSSI
-- 👀 I’m interested in IT, Windows-Systems, UNIX-kernel, Linux-Kernel & Linux-Kernel based OS, UI/UX, Math and much more
+- 👀 I’m interested in IT, Dev, Windows-Systems, UNIX-kernel, Linux-Kernel & Linux-Kernel based OS, UI/UX, Math and much more
 - 🌱 I’m currently coding in HTML, CSS, PHP, JS, Python, React, Vue.JS, C and in C# with Winforms .NET and Unity Frameworks
 - 💻 I work with Windows 11 & Arch Linux
