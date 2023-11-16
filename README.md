@@ -12,6 +12,6 @@ ANGIOSCORE_PROJECT : [![wakatime](https://wakatime.com/badge/user/bd983427-c491-
 ## Skills & Tech  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,cpp,css,docker,electron,express,figma,github,html,idea,jquery,js,linux,md,mysql,nodejs,postman,php,py,react,vue,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,cpp,css,docker,electron,express,figma,git,github,html,idea,jquery,js,linux,md,mysql,nodejs,postman,php,py,react,vue,vscode&perline=14" />
   </a>
 </p>
