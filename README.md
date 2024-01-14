@@ -7,7 +7,7 @@ ANGIOSCORE_PROJECT : [![wakatime](https://wakatime.com/badge/user/bd983427-c491-
 👋 Hi, I’m **@Korzeremi** from the french IT School IPSSI  
 ❤️ I like JS Frameworks & Scripting Languages
 👀 Interested in IT, Dev, OS, UI/UX, Math, Technologies and much more  
-🔭 Currently coding in JS Frameworks such as React, SvelteKit & VueJS
+🔭 Currently coding in JS Frameworks such as React, SvelteKit & VueJS  
 💻 Working on Windows
 
 ## Skills & Tech  
