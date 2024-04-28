@@ -1,7 +1,8 @@
 ## About me  
 👋 Hi, I’m **@Korzeremi** from the french IT School IPSSI  
 👀 Interested in IT, Dev, OS, UI/UX, Math, Technologies and much more  
-🔭 Currently coding in JS Frameworks such as React, SvelteKit & VueJS and working with Dart/Flutter  
+🔭 Currently coding in JS Frameworks such as React, SvelteKit & VueJS  
+🥇 Goal -> Complete github commit grid & real projects
 
 ## Skills & Tech 
 ### Verified
