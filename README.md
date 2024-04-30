@@ -1,7 +1,7 @@
 ## About me  
 👋 Hi, I’m **@Korzeremi02** from the french IT School IPSSI  
 👀 Interested in IT, Dev, OS, UI/UX, Math, Technologies and much more  
-🔭 Currently coding in JS Frameworks such as React, SvelteKit & VueJS  
+🔭 Working on few projects (discord bot) 
 🥇 Goal -> Complete github commit grid & real projects
 
 ## Skills & Tech 
