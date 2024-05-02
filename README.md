@@ -15,6 +15,6 @@
 ### Working and learning on
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,express,flutter,mysql,nodejs,php,postman,py,swift,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,express,flutter,mysql,next,nodejs,php,postman,py,swift,vite&perline=14" />
   </a>
 </p>
