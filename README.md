@@ -1,5 +1,5 @@
 ## About me  
-👋 Hi, I’m **@Korzeremi02** from the french IT School IPSSI  
+👋 Hi, I’m **@Korzeremi02**
 👀 Interested in IT, Dev, OS, UI/UX, Math, Technologies and much more  
 🔭 Working on few projects (discord bot)   
 🥇 Goal -> Complete github commit grid & real projects
