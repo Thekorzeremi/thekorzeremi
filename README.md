@@ -9,13 +9,13 @@
 ### Verified
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,figma,git,github,html,js,linux,md,react,svelte,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,figma,git,github,html,js,linux,md,next,react,svelte,vercel,vscode&perline=14" />
   </a>
 </p>
 
 ### Working and learning on
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,express,flutter,mysql,next,nodejs,php,postman,py,swift,tailwind,vercel,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,express,flutter,mysql,nodejs,php,postman,py,swift,tailwind,vercel,vite&perline=14" />
   </a>
 </p>
