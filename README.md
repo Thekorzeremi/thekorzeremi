@@ -19,3 +19,14 @@
     <img src="https://skillicons.dev/icons?i=bash,express,flutter,mysql,nodejs,php,postman,py,swift,vite&perline=14" />
   </a>
 </p>
+
+### Projects State  
+|Name|Version|State|Comments|Demo URL|
+|-------|-------|-------|-------|-------|
+|![web-angioworks](https://github.com/Korzeremi02/web-angioworks)|![StatusBadge](https://img.shields.io/badge/v0.1-ff0000)|![StatusBadge](https://img.shields.io/badge/In_Developmenet-146b00)|Webapp for vascular doctors|![demo](https://web-angioworks.vercel.app)|
+|![py-tfttracker](https://github.com/Korzeremi02/py-tfttracker)|![StatusBadge](https://img.shields.io/badge/v0.1-ff0000)|![StatusBadge](https://img.shields.io/badge/Project_taken_over_by_RaphTPLR-ff0000)|Discord bot to track TeamFight Tactics stats|![StatusBadge](https://img.shields.io/badge/Not_yet-ff0000)|
+|![web-portfolio](https://github.com/Korzeremi02/web-portfolio)|![StatusBadge](https://img.shields.io/badge/v0.1-ff0000)|![StatusBadge](https://img.shields.io/badge/In_Developmenet-146b00)|My own portfolio|![demo](https://web-portfolio-beige-five.vercel.app)|
+|![web-gourmet](https://github.com/Korzeremi02/web-gourmet)|![StatusBadge](https://img.shields.io/badge/Unknown-000000)|![StatusBadge](https://img.shields.io/badge/Status-Finished_but_Aborted-ff0000)|Project of Dev part in school|![StatusBadge](https://img.shields.io/badge/Not_yet-ff0000)|
+|![web-pokedex](https://github.com/Korzeremi02/web-pokedex)|![StatusBadge](https://img.shields.io/badge/Unknown-000000)|![StatusBadge](https://img.shields.io/badge/Status-Finished_but_Aborted-ff0000)|Project of Dev part in school|![demo](pokdex.raphael-romero.com)|
+|![api-rentagame](https://github.com/Korzeremi02/api-rentagame)|![StatusBadge](https://img.shields.io/badge/Unknown-000000)|![StatusBadge](https://img.shields.io/badge/Status-Finished_but_Aborted-ff0000)|Project of Dev part in school|![StatusBadge](https://img.shields.io/badge/Not_yet-ff0000)|
+|![web-quizzeo](https://github.com/Korzeremi02/web-quizzeo)|![StatusBadge](https://img.shields.io/badge/Unknown-000000)|![StatusBadge](https://img.shields.io/badge/Status-Finished_but_Aborted-ff0000)|Final project of Dev part in school 1st Year|![StatusBadge](https://img.shields.io/badge/Not_yet-ff0000)|
