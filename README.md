@@ -8,7 +8,7 @@
 ### Verified
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,debian,discord,figma,git,github,gitlab,html,js,linux,md,next,obsidian,react,svelte,tailwind,vercel,vscode,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,debian,discord,figma,git,github,html,js,linux,md,next,obsidian,react,svelte,tailwind,vercel,vscode,ubuntu&perline=9" />
   </a>
 </p>
 
