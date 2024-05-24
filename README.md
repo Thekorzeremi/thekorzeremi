@@ -1,7 +1,7 @@
 ## About me  
 👋 Hi, I’m **@Korzeremi02**  
-👀 Interested in IT, Dev, OS, UI/UX, Math, Technologies and much more  
-🔭 Working on few projects     
+👀 Interested in IT, Dev, Linux-based OS, UI/UX, Math, Technologies and much more  
+🔭 Working on custom Ubuntu Unity env     
 [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a.svg)](https://wakatime.com/@bd983427-c491-4a42-8cb8-c95de187e70a)  
 
 ## Skills & Tech 
