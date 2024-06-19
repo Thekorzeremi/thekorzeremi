@@ -1,3 +1,6 @@
+## Weekly code
+![img](https://github.com/Korzeremi/Korzeremi/blob/main/images/stat.svg)
+  
 ## About me  
 👋 Hi, I’m **@Korzeremi02**  
 👀 Interested in IT, Dev, Linux-based OS, UI/UX, Math, Technologies and much more  
