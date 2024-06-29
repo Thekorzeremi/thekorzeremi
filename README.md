@@ -11,14 +11,14 @@
 ### Verified
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bitbucket,css,debian,discord,figma,git,github,html,js,linux,md,next,obsidian,react,svelte,symfony,tailwind,vercel,vscode,ubuntu&perline=9" />
+    <img src="https://skillicons.dev/icons?i=bash,bitbucket,css,debian,discord,figma,git,github,html,js,linux,md,mysql,next,obsidian,php,react,svelte,symfony,tailwind,vercel,vscode,ubuntu&perline=9" />
   </a>
 </p>
 
 ### Working and learning on
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,express,flutter,mysql,nodejs,php,postman,py,swift,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,flutter,nodejs,postman,py,swift,vite&perline=14" />
   </a>
 </p>
 
