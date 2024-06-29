@@ -11,7 +11,7 @@
 ### Verified
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bitbucket,css,debian,discord,figma,git,github,html,js,linux,md,mysql,next,obsidian,php,react,svelte,symfony,tailwind,vercel,vscode,ubuntu&perline=9" />
+    <img src="https://skillicons.dev/icons?i=bash,bitbucket,css,debian,discord,figma,git,github,html,js,linux,md,mysql,next,obsidian,php,phpstorm,react,svelte,symfony,tailwind,vercel,vscode,ubuntu&perline=9" />
   </a>
 </p>
 
