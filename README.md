@@ -1,4 +1,4 @@
-## Weekly code
+## Weekly personal code
 ![img](https://github.com/Korzeremi/Korzeremi/blob/main/images/stat.svg)
   
 ## About me  
