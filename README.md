@@ -1,5 +1,5 @@
 ## Weekly personal code
-![img](https://github.com/Korzeremi/Korzeremi/blob/main/images/stat.svg)
+![img](https://wakatime.com/share/@Thekorzeremi/4f24485b-0ef9-403e-b65a-4b1f67163170.png/)
   
 ## Infos  
 👋 Hi, I’m **@Thekorzeremi**  
