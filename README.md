@@ -32,4 +32,4 @@ J'utilise la suite d'IDE Jetbrains :
 Et je suis sous MacOS.
 
 ## Enfin
-Vous verrez ci-dessous les projets dont je suis le plus fier.
+Vous trouverez ci-dessous certains des projets auxquels j’ai contribué ou que j’ai créés :
