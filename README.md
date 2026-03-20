@@ -30,3 +30,6 @@ Je travaille actuellement sur plusieurs projets :
 J'utilise la suite d'IDE Jetbrains :  
 ![jetbrains.png](images/jetbrains.png)  
 Et je suis sous MacOS.
+
+## Enfin
+Vous verrez ci-dessous les projets dont je suis le plus fier.
