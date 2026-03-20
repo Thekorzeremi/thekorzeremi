@@ -27,6 +27,6 @@ Je travaille actuellement sur plusieurs projets :
 | Nombre d'années depuis la création du compte | +3 ans |
 
 ## Mon setup
-J'utilise la suite d'IDE Jetbrains :
-![jetbrains.png](images/jetbrains.png)
+J'utilise la suite d'IDE Jetbrains :  
+![jetbrains.png](images/jetbrains.png)  
 Et je suis sous MacOS.
