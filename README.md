@@ -26,5 +26,5 @@ Je travaille actuellement sur plusieurs projets :
 |Type| Badge                                                                                                                                               |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Temps passé à taper du code depuis la création du compte | [![wakatime](https://wakatime.com/badge/user/bd983427-c491-4a42-8cb8-c95de187e70a.svg)](https://wakatime.com/@bd983427-c491-4a42-8cb8-c95de187e70a) |
-| Nombre de repos créés depuis la création du compte | 25 repositories |
-| Nombre d'années depuis la création du compte | +3 ans |
+| Nombre de repos créés depuis la création du compte | +30 repositories |
+| Nombre d'années depuis la création du compte | +4 ans |
