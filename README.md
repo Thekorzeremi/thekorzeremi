@@ -3,10 +3,7 @@ Hello je suis Thekorzeremi, bienvenue sur mon profil Github. Je suis un étudian
   
 Vous pourrez trouver sur mon profil les différentes informations, stacks, statistiques et repositories me concernant. 
 
-## En ce moment
-
-![Wakatime](https://wakatime.com/share/@Thekorzeremi/cfb63bd0-5476-45d7-a802-e7162983acea.svg)  
-  
+## En ce moment  
 Je travaille actuellement sur plusieurs projets :  
 - [IMDF-Builder](https://github.com/Thekorzeremi/IMDF-Builder) : Une plateforme permettant de créer des fichiers IMDF pour Microsoft Places. 
 - [EWIQ](https://github.com/Thekorzeremi/EWIQ) : Application de rapport du soir pour Garmin ForeRunner.
