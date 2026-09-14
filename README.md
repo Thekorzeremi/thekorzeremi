@@ -4,10 +4,7 @@ Hello je suis Thekorzeremi, bienvenue sur mon profil Github. Je suis un étudian
 Vous pourrez trouver sur mon profil les différentes informations, stacks, statistiques et repositories me concernant. 
 
 ## En ce moment  
-Je travaille actuellement sur plusieurs projets :  
-- [IMDF-Builder](https://github.com/Thekorzeremi/IMDF-Builder) : Une plateforme permettant de créer des fichiers IMDF pour Microsoft Places. 
-- [EWIQ](https://github.com/Thekorzeremi/EWIQ) : Application de rapport du soir pour Garmin ForeRunner.
-- **Projet d'entreprise privé** : Implémentation de nouvelles fonctionnalités et correction diverses sur une plateforme de logiciel de facturation.
+Je travaille actuellement sur plusieurs projets.
 
 ## Technologies que j'utilise
 | Type    | Techno                                                                                                                                                                                                                                                                                                                                                                                                                                |
